@@ -56,6 +56,9 @@ Using Hyper-V Manager, a Windows Server 2022 is configured as a Domain Controlle
 - Created security groups for each department
 - Assigned users to appropriate groups
 
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/5cd6659f-9517-4eb2-a4f3-8cf2abf39754" />
+
+
 ---
 
 ### 5. Domain Join (CLIENT01)
