@@ -78,10 +78,15 @@ Using Hyper-V Manager, a Windows Server 2022 is configured as a Domain Controlle
 
 ## Screenshots 
 
-CLIENT01 Network Configuration
+#### CLIENT01 Network Configuration
 
 <img width="1538" height="1296" alt="image" src="https://github.com/user-attachments/assets/98d1cbe3-12b4-4f27-b6e0-77b698c1a3c4" />
 
-Tesing if CLIENT01 can reach the DC
+#### Tesing if CLIENT01 can reach the DC
 <img width="1536" height="1297" alt="image" src="https://github.com/user-attachments/assets/acd4f76c-a66b-461d-bc89-b82819d210fb" />
+
+#### Joining CLIENT01 to the lab.local domain
+- DNS will find the Domain Controller belonging to this domain automatically
+<img width="1529" height="1290" alt="image" src="https://github.com/user-attachments/assets/447c96cd-dc85-43c7-bf18-e392a7e3fe1c" />
+
 
