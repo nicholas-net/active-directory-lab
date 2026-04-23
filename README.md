@@ -76,6 +76,11 @@ Using Hyper-V Manager, a Windows Server 2022 is configured as a Domain Controlle
 
 - I resolved a VM boot issue by researching known problems. The boot order was incorrect, so I re-ordered it so that that the DVD drive would be read first. This is where the Windows 11 iso file would be read.
 
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/a5dddcb8-90a9-42df-a83d-fdc7dff07088" />
+
+Initially I had trouble remotely connecting to the LAB\hruser1. I re-logged into the DC01, checked Remote Desktop Services Permission, and restarted the CLIENT-1 VM.
+
 ## Screenshots 
 
 #### CLIENT01 Network Configuration
