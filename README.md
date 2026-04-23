@@ -45,6 +45,8 @@ Using Hyper-V Manager, a Windows Server 2022 is configured as a Domain Controlle
 - Set CLIENT01 DNS to DC01 IP address
 - Verified internal name resolution
 
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/12d736df-1438-42a0-81c5-4e4693494f6c" />
+
 ---
 
 ### 4. Active Directory Configuration
