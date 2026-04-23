@@ -27,7 +27,7 @@ As IT support, I first identify the scope of the issue by confirming when the pr
 
 ## Fix
 - Use the Common Queries function in the AD to pull up the disabled accounts.
-- Right Click the disabled HR employees account and re-activate.
+- Confirmed the account name with the HR employee and re-activated `hruser1`.
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/540825c9-d3c3-4c12-9d0e-54708b5fa835" />
 
