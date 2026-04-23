@@ -51,7 +51,7 @@ Using Hyper-V Manager, a Windows Server 2022 is configured as a Domain Controlle
 
 ### 4. Active Directory Configuration
 - Created Organizational Units (OUs):
-  - HR [Open screenshot](<img width="2045" height="1303" alt="image" src="https://github.com/user-attachments/assets/73434727-78ed-4d04-bde9-b96d07f0461d" />)
+  - HR
   - IT
   - Sales
 - Created domain users within each OU
