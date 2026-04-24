@@ -3,7 +3,7 @@
 
 
 ## Scenario
-
+A member of the Sales Department is having difficult connecting to the network.
 
 ---
 
