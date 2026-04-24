@@ -19,7 +19,7 @@ As IT support, I first identify the scope of the issue by confirming when the pr
 
 ## Cause
 
-- `LAB/hruser1` is disabled the Active Directory Users and Computers.
+- `LAB\hruser1` is disabled the Active Directory Users and Computers.
 
  <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2e3eff95-19a2-450a-bbc3-d73cabd16ed5" />
 
