@@ -3,11 +3,19 @@
 
 
 ## Scenario
-A member of the Sales Department is having difficult connecting to the network.
+A member of the HR Department is having difficulty logging into their account using the CLIENT01 machine. It's displaying an error message saying that the domain isn't available and to check whether the device is connected to the network
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/3f168ce8-124d-4e86-9cd7-88191f5e0a8d" />
+
+&nbsp;
+
+<img width="700" height="227" alt="image" src="https://github.com/user-attachments/assets/b13571ff-d1e9-4edb-9eda-1bca243d7296" />
+
 
 ---
 
 ## Problem
+
 
 
 
