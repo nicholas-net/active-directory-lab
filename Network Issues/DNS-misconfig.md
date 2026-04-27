@@ -16,8 +16,8 @@ A member of the HR Department is having difficulty logging into their account us
 
 ## Problem
 
-
-
+• HR employee reports not being to access their account `hruser2` on `CLIENT01`.
+• Employee has indicated that other members of the team also cannot access their account on `CLIENT01`
 
 ---
 
