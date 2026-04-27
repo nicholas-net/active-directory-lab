@@ -16,8 +16,8 @@ A member of the HR Department is having difficulty logging into their account us
 
 ## Problem
 
-• HR employee reports not being to access their account `hruser2` on `CLIENT01`.
-• Employee has indicated that other members of the team also cannot access their account on `CLIENT01`
+- HR employee reports not being to access their account `hruser2` on `CLIENT01`.
+- Employee has indicated that other members of the team also cannot access their account on `CLIENT01`.
 
 ---
 
@@ -38,8 +38,17 @@ A member of the HR Department is having difficulty logging into their account us
 
 ## Troubleshooting
 
-Initially, `CLIENT01` told me that the user `LAB\salesuser2` wasn't permitted to log in remotely. Using the `DC01`, I opened Active Directory Users and Computers and added `Sales_Group` to `Remote Desktop Users`. I re-attempted to enter credentials, and it allowed me access.
+1.) Ping `CLIENT01` to test if its reachable on the network
 
-<img width="531" height="207" alt="image" src="https://github.com/user-attachments/assets/5d21fe43-08e8-44a3-a5d2-86242f64b7c0" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/529d6e7b-7e95-447f-9b03-025bd7924ed5" />
+
+- What does this  mean?
+  - This could indicate that the host is powered off, but we know this isn't the case
+  - This could mean that their is a name resolution problem (CLIENT01 isnt being mapped to the IP)
+  - Firewall is blocking the ICMP request
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/43a867eb-7145-40dc-b07f-186b03d3ebdf" />
+
+
 
 
