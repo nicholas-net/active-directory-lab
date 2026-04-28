@@ -80,13 +80,13 @@ A member of the HR Department is having difficulty logging into their account us
 
 &nbsp;
 
-6.) Re-configure the IPv4 and DNS Server to the correct addresses and re-test the DNS resolution
+6.) Re-configure the IPv4 and DNS Server to the correct addresses and re-test the DNS resolution.
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/417f008a-7735-42aa-a8ac-2f285244f064" />
 
 &nbsp;
 
-7.) Ping `CLIENT01` to test reachability
+7.) Ping `CLIENT01` to test reachability.
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9286053e-bee0-401e-b4b3-ee68c6e5b137" />
 
