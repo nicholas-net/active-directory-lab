@@ -23,17 +23,20 @@ A member of the HR Department is having difficulty logging into their account us
 
 ## Cause
 
-
+- `CLIENT01` IPv4 and DNS Server misconfigured with the wrong address.
 
 ---
 
 ## Fix
 
+- Manually go into the Network Adapater Settings and re-configure the IPv4 and DNS with the correct address.
 
 ---
 
 ## Verification
 
+- nslookup confirmed DNS resolution for CLIENT01 using the updated configuration.
+- ICMP was used to verify basic network connectivity between `DC01` and `CLIENT01`.
 ---
 
 ## Troubleshooting
