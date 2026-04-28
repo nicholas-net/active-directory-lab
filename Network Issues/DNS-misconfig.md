@@ -73,8 +73,19 @@ A member of the HR Department is having difficulty logging into their account us
 
 5.) IPv4 and DNS Server are observed to have been misconfigured with an extra 0 in the third octet.
 
-<img width="640" height="372" alt="image" src="https://github.com/user-attachments/assets/eb55cc5b-2918-4ba2-b01c-a055f3eae0e3" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/eb55cc5b-2918-4ba2-b01c-a055f3eae0e3" />
+
+&nbsp;
+
+6.) Re-configure the IPv4 and DNS Server to the correct addresses and re-test the DNS resolution
 
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/417f008a-7735-42aa-a8ac-2f285244f064" />
+
+&nbsp;
+
+7.) Ping `CLIENT01` to test reachability
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9286053e-bee0-401e-b4b3-ee68c6e5b137" />
+
 
 
