@@ -17,7 +17,7 @@ I wanted to learn about the differences between workgroups and Active Directory,
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/413b4b32-39d8-4f91-9871-245ff8d547b6" />
 
 ## Cause
-- The reason for the disruption is that the trust between `CLIENT01` and Active Directory's trust relationship has been broken.
+- The disruption occurred because CLIENT01 was removed from the lab.local domain and no longer had a trust relationship with Active Directory.
 
 ## Fix
 - Rejoining a `lab.local` domain and rebooting `CLIENT01 will restore `CLIENT0` authentication.
@@ -25,6 +25,19 @@ I wanted to learn about the differences between workgroups and Active Directory,
 ## Verification
 - Verified current login using whoami
 <img width="433" height="106" alt="image" src="https://github.com/user-attachments/assets/87ea1922-d0bd-472b-9c83-1052e189a884" />
+
+## EXTRA: Powershell Solutions
+
+- Remove `CLIENT01` from the domain and later rejoin it to `lab.local`.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/33b556fc-fb07-46a3-92a9-164dcc8a0972" />
+
+- Add `CLIENT01 back to the `lab.local domain
+
+
+
+
+
 
 
 
