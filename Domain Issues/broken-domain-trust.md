@@ -32,8 +32,11 @@ I wanted to learn about the differences between workgroups and Active Directory,
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/33b556fc-fb07-46a3-92a9-164dcc8a0972" />
 
-- Add `CLIENT01 back to the `lab.local domain
+&nbsp;
 
+- Add `CLIENT01` back to the `lab.local` domain
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9a96dd61-6d75-4e96-a8f4-1e4501f3cd1b" />
 
 
 
