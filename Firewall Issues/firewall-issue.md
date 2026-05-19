@@ -1,5 +1,3 @@
-How do I recognize that firewall is the issue?
-
 ## Scenario
 - IT administrator is unable to access `CLIENT01` via Remote Desktop after firewall configuration changes.
 ## Symptoms
