@@ -48,6 +48,7 @@
 ## Verification
 
 ## EXTRA: Powershell Solution
+- Enable Remote Desktop Inbound Connections on `CLIENT01`
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/04fa2ce3-578e-4a72-a5e8-800435374d23" />
 
