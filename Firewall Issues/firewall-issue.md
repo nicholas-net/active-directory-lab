@@ -48,7 +48,7 @@
 - Verified that Allow remote connections to this host was enabled in System Properties.
 - Retested the Remote Desktop connection and confirmed successful access to `CLIENT01`.
 ## Verification
-
+- Succesfully logged into `CLIENT01` through `Remote Desktop Connection (RDP)`.
 ## EXTRA: PowerShell Solution
 - Enable Remote Desktop Inbound Connections on `CLIENT01`
 
