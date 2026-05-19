@@ -26,7 +26,7 @@ I wanted to learn about the differences between workgroups and Active Directory,
 - Verified current login using whoami
 <img width="433" height="106" alt="image" src="https://github.com/user-attachments/assets/87ea1922-d0bd-472b-9c83-1052e189a884" />
 
-## EXTRA: Powershell Solutions
+## EXTRA: PowerShell Solutions
 
 - Remove `CLIENT01` from the domain and later rejoin it to `lab.local`.
 
