@@ -21,7 +21,16 @@
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/690d38df-395d-4a25-ac95-8d224ae636a9" />
 
+&nbsp;
+
+- Using `ipconfig /all` on `CLIENT01`under the lab.local admin account, I check to make sure the DNS server, IP address and subnet mask are configured correctly. 
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/24a153d2-7403-4709-8395-e412b4c0a919" />
+
 
 ## Root Cause
+
+
+
 ## Resolution
 ## Verification
