@@ -16,7 +16,7 @@
 
 &nbsp;
 
-- Additionally using `ping`, I test to see if there is any issue with the devices DNS resolution.
+- Additionally using `ping`, I test to see if its reachable via it's domain name.
 - That does not appear to be the case based on the response from `CLIENT01`.
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/690d38df-395d-4a25-ac95-8d224ae636a9" />
@@ -26,6 +26,19 @@
 - Using `ipconfig /all` on `CLIENT01`under the lab.local admin account, I check to make sure the DNS server, IP address and subnet mask are configured correctly. 
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/24a153d2-7403-4709-8395-e412b4c0a919" />
+
+&nbsp;
+
+- Next, I load up the Windows Firewall to check the inbound configuration.
+- I observe that `Remote Desktop - User Mode` for `TCP` and `UDP` inbound connections are both disabled.
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/7c9f2c27-d061-4b67-a813-ea6062c320c4" />
+
+&nbsp;
+
+- Additionally, I ensure that Remote Connections from this device are enabled in the System Properties.
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c5c86f5a-f36a-4c6e-885c-55555b77a0be" />
+
 
 
 ## Root Cause
