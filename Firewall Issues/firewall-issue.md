@@ -41,10 +41,12 @@
 
 
 ## Root Cause
-
-
+- `Remote Desktop - User Mode (TCP-In)` and `Remote Desktop - User Mode (UDP-In)` inbound firewall rules were disabled on `CLIENT01`, preventing Remote Desktop connections
 
 ## Resolution
+- Enabled the `Remote Desktop - User Mode (TCP-In)` and `Remote Desktop - User Mode (UDP-In)` inbound firewall rules in Windows Defender Firewall on `CLIENT01`.
+- Verified that Allow remote connections to this host was enabled in System Properties.
+- Retested the Remote Desktop connection and confirmed successful access to `CLIENT01`.
 ## Verification
 
 ## EXTRA: PowerShell Solution
