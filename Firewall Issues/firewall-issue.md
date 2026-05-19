@@ -40,10 +40,14 @@
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/c5c86f5a-f36a-4c6e-885c-55555b77a0be" />
 
 
-
 ## Root Cause
 
 
 
 ## Resolution
 ## Verification
+
+## EXTRA: Powershell Solution
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/04fa2ce3-578e-4a72-a5e8-800435374d23" />
+
